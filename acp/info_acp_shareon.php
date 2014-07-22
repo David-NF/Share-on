@@ -1,7 +1,7 @@
 <?php
 /**
 *
-* shareon [English]
+* shareon [Dutch]
 *
 * @package language Share On
 * @copyright (c) 2013 Vinny
