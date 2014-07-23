@@ -21,7 +21,7 @@ $lang = array();
 
 $lang = array_merge($lang, array(
 // ACP
-'SO_ACP'	=> 'Share On Extension',
+'SO_ACP'	=> 'Share On Extensie',
     'SO_TITLE'	=> 'Share On Extensie instellingen',
 'SO_EXPLAIN'	=> 'Je kan hier instellen naar welke sociale media websites, de topics/berichten gedeeld kunnen worden.',	
 'SHARE_ON_MOD'	=> 'Share On',
