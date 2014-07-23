@@ -3,7 +3,7 @@ Share-on
 
 Met behulp van deze extensie kunnen gebruikers en gasten onderwerpen of berichten delen via sociale media. 
 
-Upload de map "nl" naar root/ext/vinny/shareon/language
+Upload de map "nl" naar root/ext/vinny/shareon/language/
 
 Als je een schrijf en/of spellingsfout vind dan kan je deze melden via: https://github.com/David-NF/Share-on/issues Ook op/of aanmerkingen voor verbeteringen zijn welkom.
 
